@@ -1,0 +1,120 @@
+{
+    "landing":{
+        "firstName": "Shoyab Azmal",
+        "lastName": " Shaik",
+        "phoneNumber": "+91-7702366842",
+        "bio": "I am an undergraduate student at IIITDM Kurnool doing major in Computer Science and Engineering. I am passionate about contributing to developer community and is associated with many community developer programs. I am an opensource contributor and have contributed to many projects. My tech stack includes Python and Javascript, Java, C, C++. Python for Machine Learning Projects. I use Express.js framework for the server side development and React for the frontend development. I have created Android Apps in Android studio for which I have been offered an internship at INIESTA Webtech solution. I am a member of Codigo club in my college and have contributed projects under that club.",
+        "lifePhilosophy": "I shall either find a way or make one",
+        "email": "shaikshoyab01@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/shoyab-azmal-6a3539154/",
+        "github": "https://github.com/shoyab01"
+    },
+    "experience":[
+        {
+            "position": "Android App Developer Intern",
+			"organization": "Iniesta Webtech SSolution",
+            "aboutWork": "Developing new Android Apps under my mentor and submitting them to Google Play Store. Deigning UI and server side development by integrating Apis' to those Apps'.",
+			"fromDate": "May 2020",
+			"toDate": "Present"
+        },
+        {
+			"position": "Smart Voice Assistant Android App Intern",
+			"organization": "NA",
+			"aboutWork": "Working under Phani Bhushan to create a Voice Assistant Android Application which is intelligent to perform engaging conversations with customers and make their lives simple.",
+			"fromDate": "May 2020",
+			"toDate": "Present"
+        }
+    ],
+    "education":[
+        {
+            "university": "Indian Institute of Information Technology, Design and Manufacturing, Kurnool",
+			"degree": "Bachelor of Technology",
+			"gpa": "8.63",
+			"fromDate": "August 2017",
+			"toDate": "Present"
+        },
+        {
+            "university": "Sri Chaitanya Junior Kalasala",
+			"degree": "Intermediate(+2)",
+			"gpa": "9.76",
+			"fromDate": "August 2014",
+			"toDate": "May 2016"
+        }
+    ],
+    "skills":[
+        {
+            "name": "Java",
+            "expLevel": "Expert"
+        },
+        {
+            "name": "Kotlin",
+            "expLevel": "Beginner"
+        },
+        {
+            "name": "Python",
+            "expLevel": "Expert"
+        },
+        {
+            "name": "JavaScript",
+            "expLevel": "Expert"
+        },
+        {
+            "name": "React",
+            "expLevel": "Expert"
+        },
+        {
+            "name": "Node.js",
+            "expLevel": "Expert"
+        },
+        {
+            "name": "R",
+            "expLevel": "Beginner"
+        },
+        {
+            "name": "HTML5",
+            "expLevel": "Intermediate"
+        },
+        {
+            "name": "Database Management syste (DBMS)",
+            "expLevel": "Expert"
+        },
+        {
+            "name": "MySQL",
+            "expLevel": "Expert"
+        },
+        {
+            "name": "c Programming",
+            "expLevel": "Intermediate"
+        },
+        {
+            "name": "c++ Programming",
+            "expLevel": "Intermediate"
+        },
+        {
+            "name": "Verilog",
+            "expLevel": "Intermediate"
+        },
+        {
+            "name": "Neural Networks",
+            "expLevel": "Intermediate"
+        }
+    ],
+    "interests":{
+        "para1": "Apart from being a programmer, I enjoy most of the time watchin YouTube videos about great advancements in Technology. I do follow Elon Musk as he is the inspiration behind my hard work. I am fascinated by Elon Musk's Falcon Rockets, Tesla cars and Hyper loop.",
+        "para2": "I enjoy participating in technical competitions in my college where I will gain knowledge of my position in this competitive world. I have participated in Robo Race in April 2019 and I have come to know many crucial things such as winning this race depends more on driver controlling compared to Robo body building."
+    },
+    "awards":[
+        {
+            "awardDetail": "Kotlin for Java Developers"
+        },
+        {
+            "awardDetail": "Core Java"
+        },
+        {
+            "awardDetail": "Diploma in Data Science"
+        },
+        {
+            "awardDetail": "Google at IIITDM (Predict whether Ronaldo would hit a goal or not at a given situation using Machine learning.)"
+        }
+    ]
+}
