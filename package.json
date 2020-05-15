@@ -1,6 +1,9 @@
 {
   "name": "personalwebsite",
   "version": "0.1.0",
+  "engines": {
+    "node": "12.16.3"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -30,5 +33,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "dependency-check": "^4.1.0",
+    "husky": "^4.2.5",
+    "installed-check": "^3.0.0"
   }
 }
